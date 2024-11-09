@@ -1,0 +1,8 @@
+#*.tar.gz
+#*.en
+#*.de
+#*.pyc
+#*.pyo
+# *.pkl
+#*saved models/*
+#!saved models/seq2seq_model/
